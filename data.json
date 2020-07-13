@@ -1,0 +1,45 @@
+{
+	"details":{
+		"name":"Vinay Sriram",
+		"email":"vinaysriram@gmail.com",
+		"number":"91*****267",
+		"Address":"amalapuram"
+	},
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"eduactionalqualification":[
+{
+	"institute":"Bonam Venkata Chalamaiah Engineering College",
+	"degree":"B.tech",
+	"passoutyear":"2022",
+	"percentage":"82%"
+},
+{
+	"institute":"Narayana IIT academy",
+	"degree":"Intermediate",
+	"passoutyear":"2018",
+	"percentage":"97.2%"
+},
+{
+	"institute":"Narayana techno school",
+	"degree":"SSC",
+	"passoutyear":"2016",
+	"percentage":"98%"
+}
+	],
+
+	"techinicalskills":[{
+		"title":"Programming language",
+		"info":["c,c++,java,R,python"]
+	},
+	{
+		"title":"Abilities",
+		"info":["Team leading,Event management,Presentations"]
+	},
+	{
+		"title":"Operating system",
+		"info":["windows,linux,Ubuntu,DOS"]
+	}
+]
+}
